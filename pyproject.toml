@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "interactive-dispatcher"
-version = "0.1.0"
+version = "1.0.0"
 description = "A customizable interactive CLI menu dispatcher with extendable return signals and matching function calls."
 readme = "README.md"
 requires-python = ">=3.8"
@@ -14,7 +14,7 @@ authors = [
 ]
 keywords = ["cli", "menu", "dispatcher", "return-signal", "customizable", "interactive", "function-calls"]
 classifiers = [
-  "Development Status :: 3 - Alpha",
+  "Development Status :: 5 - Production/Stable",
   "Intended Audience :: Developers",
   "Topic :: Software Development :: User Interfaces",
   "Programming Language :: Python :: 3",

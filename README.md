@@ -83,7 +83,7 @@ while True:
 
 ```
 ## Output
-![alt text](image.png)
+![Image of Output](https://github.com/Akhand-Pratap-Tiwari/python-interactive-dispatcher/blob/main/image.png?raw=true)
 
 ---
 

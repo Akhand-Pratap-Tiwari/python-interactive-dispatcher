@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.0.2] - 2025-06-03
+### Changed
+- Bumped version from `1.0.1` to `1.0.2` due to PyPI restriction on reusing existing version numbers.
+- No code changes from made.
+- This version exists solely to allow a valid re-upload.
+
+
+---
+
 ## [1.0.1] - 2025-06-03
 ### Changed
 - Bumped version from `0.1.0` to `1.0.1` due to PyPI restriction on reusing existing version numbers.
@@ -15,7 +24,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ---
 
 ## [1.0.0] - 2025-06-03
-
 ### Stable Release
 
 - First stable release of `interactive-dispatcher`.
@@ -28,7 +36,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ---
 
 ## [0.1.0] - 2025-06-02
-
 ### Initial Alpha Release
 
 - Basic dispatcher structure with command registration and signal handling.

@@ -95,7 +95,7 @@ Interactive Dispatcher abstracts away repetitive CLI input logic and allows deve
 
 ---
 
-## ⚙️ Customization
+## Customization
 You can fully customize menu prompts, signals, or plug the dispatcher into larger CLI apps.
 
 ### With Callable Handlers

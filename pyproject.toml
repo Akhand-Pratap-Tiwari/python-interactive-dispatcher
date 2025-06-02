@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "interactive-dispatcher"
+version = "0.1.0"
+description = "A customizable interactive CLI menu dispatcher with extendable return signals and matching function calls."
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+  {name = "Akhand Pratap Tiwari", email = "akdevstudios100@gmail.com"}
+]
+keywords = ["cli", "menu", "dispatcher", "return-signal", "customizable", "interactive", "function-calls"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/interactive-dispatcher"

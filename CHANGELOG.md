@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.0.1] - 2025-06-03
+### Changed
+- Bumped version from `0.1.0` to `1.0.1` due to PyPI restriction on reusing existing version numbers.
+- No code changes from `0.1.0`. This version exists solely to allow a valid re-upload.
+
+---
+
 ## [1.0.0] - 2025-06-03
 
 ### Stable Release
@@ -20,7 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [0.1.0] - 2025-06-03
+## [0.1.0] - 2025-06-02
 
 ### Initial Alpha Release
 
